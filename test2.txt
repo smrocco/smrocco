@@ -1,0 +1,4 @@
+test file 2 
+
+
+eval "$(/opt/homebrew/bin/brew shellenv)"
